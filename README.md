@@ -15,13 +15,6 @@
 
 <body>
 
-  <style>
-  body {
-    background-color: #000;
-    color: #fff;
-  }
-</style>
-
 # Hi there! 👋 
 ## नमस्ते (Namaste), I'm [Jatin Gagwani](https://github.com/Gagwani07/)
 
@@ -70,10 +63,3 @@ I'm a passionate Data Analyst with a track record of successfully completing var
 </body>
 
 </html>
-
-
-
-
-
-
-
