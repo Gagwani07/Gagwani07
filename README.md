@@ -1,4 +1,21 @@
-<style>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+    }
+  </style>
+  <title>Your Page Title</title>
+</head>
+
+<body>
+
+  <style>
   body {
     background-color: #000;
     color: #fff;
@@ -48,3 +65,15 @@ I'm a passionate Data Analyst with a track record of successfully completing var
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JatinGagwani&show_icons=true&count_private=true)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=JatinGagwani.JatinGagwani)
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+
