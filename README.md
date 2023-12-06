@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <style>
-        body {
-            background-color: black;
-            color: white;
-        }
-    </style>
-</head>
-
 <body>
 
 
