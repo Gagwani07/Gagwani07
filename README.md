@@ -30,9 +30,9 @@ I'm a passionate Data Analyst with a track record of successfully completing var
 <details>
   <summary>Explore</summary>
   
-  - [BELLABEAT-EDA](https://JatinGagwani.github.io/BELLABEAT-EDA/)
+  
   - [Cyclistic-EDA][https://jatingagwani.github.io/BELLABEAT-EDA/](https://jatingagwani.github.io/Cyclistic-EDA/)
-
+  - [BELLABEAT-EDA](https://JatinGagwani.github.io/BELLABEAT-EDA/)
 
   
 </details>
