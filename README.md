@@ -10,7 +10,6 @@
       color: #fff;
     }
   </style>
-  <title></title>
 </head>
 
 <body>
