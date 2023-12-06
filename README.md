@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<head>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+
 # Hi there! 👋 
 ## नमस्ते (Namaste), I'm [Jatin Gagwani](https://github.com/JatinGagwani)
 
