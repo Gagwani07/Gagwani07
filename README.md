@@ -17,7 +17,11 @@
 # Hi there! 👋 
 ## नमस्ते (Namaste), I'm [Jatin Gagwani](https://github.com/JatinGagwani)
 
-[![Twitter Badge](https://img.shields.io/badge/-@gagwani07-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gagwani07)](https://twitter.com/gagwani07) [![Instagram Badge](https://img.shields.io/badge/-@gagwani07-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/gagwani07/)](https://www.instagram.com/gagwani07/) [![LinkedIn Badge](https://img.shields.io/badge/-jatin-gagwani-a92b53249-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatin-gagwani-a92b53249/)](https://www.linkedin.com/in/jatin-gagwani-a92b53249/) [![Gmail Badge](https://img.shields.io/badge/-gagwanijatin007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gagwanijatin007@gmail.com)](mailto:gagwanijatin007@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@gagwani07-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gagwani07)](https://twitter.com/gagwani07) [![Instagram Badge](https://img.shields.io/badge/-@gagwani07-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/gagwani07/)](https://www.instagram.com/gagwani07/) [![LinkedIn Badge](https://img.shields.io/badge/[-jatin-gagwani-a92b53249](https://www.linkedin.com/in/jatin-gagwani-a92b53249/)-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatin-gagwani-a92b53249/)](https://www.linkedin.com/in/jatin-gagwani-a92b53249/) [![Gmail Badge](https://img.shields.io/badge/-gagwanijatin007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gagwanijatin007@gmail.com)](mailto:gagwanijatin007@gmail.com)
+
+
+# https://www.linkedin.com/in/jatin-gagwani-a92b53249/
+
 
 I'm a passionate Data Analyst with a track record of successfully completing various projects using a range of tools and techniques. I'm eager to continue expanding my skill set and contributing to impactful projects in the field of data analysis. I'm currently seeking new challenges where I can bring a fresh perspective and drive results.
 
