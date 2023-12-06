@@ -31,7 +31,7 @@ I'm a passionate Data Analyst with a track record of successfully completing var
   <summary>Explore</summary>
   
   - [BELLABEAT-EDA](https://JatinGagwani.github.io/BELLABEAT-EDA/)
-  - [Cyclistic EDA](https://JatinGagwani.github.io/Cyclistic-EDA/)
+  - [Cyclistic-EDA](https://JatinGagwani.github.io/Cyclistic-EDA/)
   
 </details>
 
