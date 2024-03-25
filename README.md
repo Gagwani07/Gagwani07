@@ -27,11 +27,12 @@ Have a data challenge or a burning digital marketing question? Don't hesitate to
 
 **P.S.** Check out my website ([JatinGagwani.com](https://JatinGagwani.github.io/)) for more details and see if there are any blogs or services I offer that might be helpful!
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+---
 
 <p>I'm currently a Data Analyst & have successfully completed several projects using various tools and techniques. I am eager to continue building my skills and contributing to meaningful projects as a data analyst. Seeking a new challenge, I am confident in my ability to bring fresh perspective and drive results.
 
 <p>🍌 Don't forget to get some Potassium 🍌</p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -54,4 +55,6 @@ Have a data challenge or a burning digital marketing question? Don't hesitate to
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+
+</p>
