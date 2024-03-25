@@ -34,7 +34,7 @@ Have a data challenge or a burning digital marketing question? Don't hesitate to
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h4>⚡️ A Few Quick Facts</h4>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/JatinGagwani?tab=repositories">My current project</a>.</li>
 <li>🧐 Learning about <strong>Exploratory Data Analysis (EDA)</strong> and a bit of <strong>Data Science</strong>.</li>
