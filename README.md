@@ -3,7 +3,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@gagwani07-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gagwani07)](https://twitter.com/gagwani07)
 [![Instagram Badge](https://img.shields.io/badge/-@gagwani07-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/gagwani07/)](https://www.instagram.com/gagwani07/)
-[![Linkedin Badge](https://img.shields.io/badge/-jatin-gagwani-a92b53249-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatin-gagwani-a92b53249/)](https://www.linkedin.com/in/jatin-gagwani-a92b53249/)
+[![Linkedin Badge](https://img.shields.io/badge/-jatin-gagwani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatin-gagwani-a92b53249/)](https://www.linkedin.com/in/jatin-gagwani-a92b53249/)
 [![Gmail Badge](https://img.shields.io/badge/-gagwanijatin007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gagwanijatin007@gmail.com)](mailto:gagwanijatin007@gmail.com)
 
 ---
