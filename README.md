@@ -40,7 +40,7 @@ Have a data challenge or a burning digital marketing question? Don't hesitate to
 <li>🧐 Learning about <strong>Exploratory Data Analysis (EDA)</strong> and a bit of <strong>Data Science</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/JatinGagwani">Github</a>.</li>
 <li>💬 Ping me about <strong>Python, Database Management System, and SQL</strong>.</li>
-<li>📙 Check out my <a href="Jatin_resume.pdf (1).pdf">resume</a>.</li>
+<li>📙 Check out my <a href="https://jatingagwani.github.io/Jatin_Gagwani_resume.pdf">resume</a>.</li>
 </ul>
 
 ---
@@ -49,7 +49,9 @@ Have a data challenge or a burning digital marketing question? Don't hesitate to
     <img src="https://jatingagwani.github.io/Cyclistic-EDA/cycle.png">
     <li><a target="_blank" href="https://JatinGagwani.github.io/Cyclistic-EDA/">Cyclistic EDA</a></li>
     <img src="https://raw.githubusercontent.com/JatinGagwani/BELLABEAT-EDA/main/download.png">
-    <li><a target="_blank" href="https://JatinGagwani.github.io/BELLABEAT-EDA/">BELLABEAT-EDA</a></li>
+    <li><a target="_blank" href="https://jatingagwani.github.io/BellaBeat-EDA/">BellaBeat EDA</a></li>
+    <img src="https://jatingagwani.github.io/Automation-Dashboard/Leads_distribution_dasboard.gif">
+    <li><a target="_blank" href="https://jatingagwani.github.io/Automation-Dashboard/">Sales Automation & Data Visualization</a></li>
 
 <p><a target="_blank" href="https://github.com/JatinGagwani?tab=repositories">Explore More</a></p>
 <h2>🚀 Some Tools I Use</h2>
