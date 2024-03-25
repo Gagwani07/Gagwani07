@@ -50,8 +50,8 @@ Have a data challenge or a burning digital marketing question? Don't hesitate to
     <li><a target="_blank" href="https://JatinGagwani.github.io/Cyclistic-EDA/">Cyclistic EDA</a></li>
     <img src="https://raw.githubusercontent.com/JatinGagwani/BELLABEAT-EDA/main/download.png">
     <li><a target="_blank" href="https://jatingagwani.github.io/BellaBeat-EDA/">BellaBeat EDA</a></li>
-    <img src="https://jatingagwani.github.io/Automation-Dashboard/Leads_distribution_dasboard.gif">
-    <li><a target="_blank" href="https://jatingagwani.github.io/Automation-Dashboard/">Sales Automation & Data Visualization</a></li>
+    ![Sales Automation & Data Visualization](https://jatingagwani.github.io/Automation-Dashboard/Leads_distribution_dasboard.gif)
+    - [Sales Automation & Data Visualization](https://jatingagwani.github.io/Automation-Dashboard/)
 
 <p><a target="_blank" href="https://github.com/JatinGagwani?tab=repositories">Explore More</a></p>
 <h2>🚀 Some Tools I Use</h2>
