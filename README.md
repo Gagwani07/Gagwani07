@@ -43,7 +43,7 @@ Have a data challenge or a burning digital marketing question? Don't hesitate to
 <li>📙 Check out my <a href="Jatin_resume.pdf (1).pdf">resume</a>.</li>
 </ul>
 
-
+---
 
 <h2>✒️ Recent Project</h2>
     <img src="https://jatingagwani.github.io/Cyclistic-EDA/cycle.png">
