@@ -1,5 +1,5 @@
 ### Hi there 👋 
-## नमस्ते (Namaste), I am [Jatin Gagwani](https://github.com/Gagwani07/)
+## नमस्ते (Namaste), I am [Jatin Gagwani](https://github.com/JatinGagwani/)
 
 [![Twitter Badge](https://img.shields.io/badge/-@gagwani07-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gagwani07)](https://twitter.com/gagwani07)
 [![Instagram Badge](https://img.shields.io/badge/-@gagwani07-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/gagwani07/)](https://www.instagram.com/gagwani07/)
@@ -27,12 +27,11 @@ Have a data challenge or a burning digital marketing question? Don't hesitate to
 
 **P.S.** Check out my website ([JatinGagwani.com](https://JatinGagwani.github.io/)) for more details and see if there are any blogs or services I offer that might be helpful!
 
----
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <p>I'm currently a Data Analyst & have successfully completed several projects using various tools and techniques. I am eager to continue building my skills and contributing to meaningful projects as a data analyst. Seeking a new challenge, I am confident in my ability to bring fresh perspective and drive results.
 
 <p>🍌 Don't forget to get some Potassium 🍌</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -40,8 +39,7 @@ Have a data challenge or a burning digital marketing question? Don't hesitate to
 <li>🧐 Learning about <strong>Exploratory Data Analysis (EDA)</strong> and a bit of <strong>Data Science</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/JatinGagwani">Github</a>.</li>
 <li>💬 Ping me about <strong>Python, Database Management System, and SQL</strong>.</li>
-<li>📙 Check out my <a href="https://jatingagwani.github.io/Jatin_Gagwani_resume.pdf">resume</a>.</li>
-<li>🎧 Currently listening to on Spotify: [Your Spotify Playlist Link]</li>
+<li>📙 Check out my <a href="Jatin_resume.pdf (1).pdf">resume</a>.</li>
 </ul>
 
 <h2>✒️ Recent Project</h2>
@@ -56,6 +54,4 @@ Have a data challenge or a burning digital marketing question? Don't hesitate to
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25
