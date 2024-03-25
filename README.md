@@ -36,11 +36,12 @@ Have a data challenge or a burning digital marketing question? Don't hesitate to
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="link to be updated">My current project</a>.</li>
+<li>🔭 I’m currently working on <a href="https://github.com/JatinGagwani?tab=repositories">My current project</a>.</li>
 <li>🧐 Learning about <strong>Exploratory Data Analysis (EDA)</strong> and a bit of <strong>Data Science</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/JatinGagwani">Github</a>.</li>
 <li>💬 Ping me about <strong>Python, Database Management System, and SQL</strong>.</li>
-<li>📙 Check out my <a href="https://gagwani07.github.io/resume/resume.pdf">resume</a>.</li>
+<li>📙 Check out my <a href="Jatin_resume.pdf (1).pdf">resume</a>.</li>
+<li>🎧 Currently listening to on Spotify: [Your Spotify Playlist Link]</li>
 </ul>
 
 <h2>✒️ Recent Project</h2>
@@ -49,7 +50,7 @@ Have a data challenge or a burning digital marketing question? Don't hesitate to
     <img src="https://raw.githubusercontent.com/JatinGagwani/BELLABEAT-EDA/main/download.png">
     <li><a target="_blank" href="https://JatinGagwani.github.io/BELLABEAT-EDA/">BELLABEAT-EDA</a></li>
 
-<p><a target="_blank" href="https://JatinGagwani.github.io/">Explore More</a></p>
+<p><a target="_blank" href="https://github.com/JatinGagwani?tab=repositories">Explore More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
@@ -58,5 +59,3 @@ Have a data challenge or a burning digital marketing question? Don't hesitate to
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 
 </p>
-<img src="" alt="JatinGagwani" />
-<p><img src="" alt="visitors"></p>
