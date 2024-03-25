@@ -40,7 +40,7 @@ Have a data challenge or a burning digital marketing question? Don't hesitate to
 <li>🧐 Learning about <strong>Exploratory Data Analysis (EDA)</strong> and a bit of <strong>Data Science</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/JatinGagwani">Github</a>.</li>
 <li>💬 Ping me about <strong>Python, Database Management System, and SQL</strong>.</li>
-<li>📙 Check out my <a href="Jatin_resume.pdf (1).pdf">resume</a>.</li>
+<li>📙 Check out my <a href="https://jatingagwani.github.io/Jatin_Gagwani_resume.pdf">resume</a>.</li>
 <li>🎧 Currently listening to on Spotify: [Your Spotify Playlist Link]</li>
 </ul>
 
